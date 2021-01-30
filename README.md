@@ -152,6 +152,6 @@ User | Contribution |
 [stars-shield]: https://img.shields.io/github/stars/albusnoir/pyinv.svg?style=for-the-badge
 [stars-url]: https://github.com/albusnoir/pyinv/stargazers
 [license-shield]: https://img.shields.io/github/license/albusnoir/pyinv.svg?style=for-the-badge
-[license-url]: https://github.com/albusnoir/pyinv/blob/master/LICENSE
+[license-url]: https://github.com/albusnoir/pyinv/blob/main/LICENSE
 [twitter-shield]: https://img.shields.io/badge/-twitter-Twitter?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/kaleleafygreen
