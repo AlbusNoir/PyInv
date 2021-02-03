@@ -168,3 +168,5 @@ while True:
         sel_id = get_id(sel_title)
         selected_sheetTitle.update(sel_title)
         selected_sheetID.update(sel_id)
+
+window.Close()
