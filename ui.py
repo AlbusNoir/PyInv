@@ -78,10 +78,10 @@ with open('sheets.json') as sheets:
     data = json.load(sheets)
 
 
-length = len(data)
+length = len(data['spreadsheets'])
 
 
-for i in range(length+1):
+for i in range(length):
     title = data['spreadsheets'][i]['title']
     sid = data['spreadsheets'][i]['id']
 
